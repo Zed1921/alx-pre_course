@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo"ALX"
+=======
+echo "ALX"
+>>>>>>> 7f7e5dbc25c1af80cfb046635ac8f1889d681cea
